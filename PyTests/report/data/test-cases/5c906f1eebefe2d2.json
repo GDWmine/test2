@@ -1,0 +1,55 @@
+{
+  "uid" : "5c906f1eebefe2d2",
+  "name" : "test_lbt",
+  "fullName" : "case.test_index#test_lbt",
+  "historyId" : "debf54c70ec7d8ffe557c28f7d6a9290",
+  "time" : {
+    "start" : 1589034363893,
+    "stop" : 1589034363911,
+    "duration" : 18
+  },
+  "description" : "\n        requests的内容\n    ",
+  "descriptionHtml" : "<pre><code>    requests的内容\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_index"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N9LEK54"
+  }, {
+    "name" : "thread",
+    "value" : "14992-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c906f1eebefe2d2.json",
+  "parameterValues" : [ ]
+}
